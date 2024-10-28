@@ -6,10 +6,6 @@ Here’s a sample README file content for a "Random Password Generator" project 
 
 A simple web-based random password generator application that allows users to generate strong, customizable passwords. The project is built with HTML, CSS, and JavaScript, offering users the ability to specify password length and character types for security.
 
-## Demo
-
-![Demo of Random Password Generator](link-to-image-or-gif)
-
 ## Features
 
 - **Random Password Generation:** Creates strong, unpredictable passwords.
