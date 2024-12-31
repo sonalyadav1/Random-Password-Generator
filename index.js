@@ -15,6 +15,7 @@ const symbols = '~`!@#$%^&*()_-+={[}]|:;"<,>.?/';
 
 //satrting
 let password = "";
+
 let passLength = 10;
 let checkCount = 0;
 
